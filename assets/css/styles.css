@@ -1,0 +1,31 @@
+.login {
+  text-align: center;
+}
+
+.header {
+  border-bottom: black 1px solid;
+}
+
+.btn-submit {
+  width: 206px;
+}
+
+.worker {
+  background-color: var(--bs-blue);
+  border-radius: 14px;
+}
+
+div {
+}
+
+.head {
+  background: var(--bs-blue);
+}
+
+input {
+}
+
+.p-input {
+  width: 327px;
+}
+
